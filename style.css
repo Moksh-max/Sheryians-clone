@@ -37,7 +37,7 @@ nav i {
   align-items: center;
   justify-content: space-around;
   gap: 30px;
-  padding: 0 30px;
+  padding: 23px 30px;
   width: 50%;
   height: 40px;
   background: #0c0c0c;
@@ -48,7 +48,7 @@ nav i {
 
 .links a {
   text-decoration: none;
-  color: rgb(117, 116, 116);
+  color: rgb(180, 180, 180);
 }
 .links a:hover {
   text-decoration: none;
