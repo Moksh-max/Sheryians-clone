@@ -11,7 +11,7 @@ https://moksh-max.github.io/Sheryians-clone/
 
 ## 📸 Preview
 
-![alt text](image.png)
+![Sheryians Coding School Clone](assets/preview.png)
 
 ---
 
